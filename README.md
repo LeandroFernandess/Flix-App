@@ -1,6 +1,6 @@
 # Flix App 🎥
 
-Um sistema modular para gerenciamento de dados relacionado a filmes, gênros, atores, avaliações e autenticação de usuários. O projeto utiliza Python, com uma arquitetura limpa e organizada para cada funcionalidade.
+Um sistema modular para gerenciamento de dados relacionado a filmes, gêneros, atores, avaliações e autenticação de usuários. O projeto utiliza Python, com uma arquitetura limpa e organizada para cada funcionalidade.
 
 ## Tecnologias Utilizadas 🛠️
 
@@ -69,7 +69,7 @@ flix_app/
 - CRUD (Create, Read, Update, Delete) completo para:
   - Atores
   - Filmes
-  - Gênros
+  - Gêneros
   - Avaliações
 - Autenticação e gerenciamento de sessões.
 - Arquitetura modular para maior manutenção e escalabilidade.
