@@ -109,3 +109,15 @@ flix_app/
 
 Contribuições são bem-vindas! Se você tiver sugestões ou encontrar problemas, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
+## Contato 💬
+
+Caso tenha dúvidas ou sugestões, entre em contato:
+
+- **Nome**: Leandro Fernandes
+- **Email**: leandrofernandes1600@gmail.com
+- **GitHub**: https://github.com/LeandroFernandess
+
+---
+
+*Documentação atualizada em: `11/01/2025`.* 🚀
+
